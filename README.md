@@ -57,13 +57,14 @@ It includes data cleaning, EDA, feature engineering, machine learning modelling,
 ---
 
 #### Tools Used
+#### Tools Used
 
-| Category | Tools |
-|----------|-------|
-| Programming | Python |
-| Libraries | Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn |
-| Business Analytics | Excel Pivot Tables, Charts, Slicers |
-| Data Source | Kaggle Titanic Dataset |
+| Category          | Tools                                                                 |
+|------------------|------------------------------------------------------------------------|
+| Programming      | Python                                                                 |
+| Libraries        | Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn                       |
+| Business Analytics | Excel Pivot Tables, Charts, Slicers                                  |
+| Data Source      | [Kaggle Titanic Dataset](https://www.kaggle.com/code/ananthu19/titanic-survival-prediction/input?select=test.csv) |
 
 ---
 
